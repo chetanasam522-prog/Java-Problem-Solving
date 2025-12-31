@@ -47,8 +47,8 @@
      # Solution :-
  */
 
-public class InvertedRotetedHalfPyramid{
-    public static void InvertedRotetedHalfPyramid(int n){
+public class InvertedRotetedHalfpyramid{
+    public static void InvertedRotetedHalfpyramid(int n){
           
         // Outer loop
         for(int i=1; i<=n;i++){
@@ -69,7 +69,7 @@ public class InvertedRotetedHalfPyramid{
         }
     }
     public static void main(String args[]){
-        InvertedRotetedHalfPyramid(4);
+        InvertedRotetedHalfpyramid(4);
 
     }
 }

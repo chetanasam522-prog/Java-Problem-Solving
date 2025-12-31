@@ -50,7 +50,7 @@
      # Solution :-
  */
 
-  public class FLOYDSTriangle{
+  public class FLOYDSTriangles{
    public static void FLOYDSTriangle(int n){
     int counter = 1;
 
