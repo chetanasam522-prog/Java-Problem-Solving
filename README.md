@@ -1,11 +1,11 @@
 # Java Problem Solving
 
 -This repository contains Java programs for problem solving and basic DSA practice.
--It focuses on building strong fundamentals and logical thinking using Core Java concepts.
--I solve problems regularly while following a structured learning approach,
--covering both basic and intermediate Java topics useful for interviews and academics.
--The goal of this repository is to strengthen problem-solving skills,
- maintain clean and organized code, and track my long-term Java learning progress.
+It focuses on building strong fundamentals and logical thinking using Core Java concepts.
+I solve problems regularly while following a structured learning approach,
+covering both basic and intermediate Java topics useful for interviews and academics.
+The goal of this repository is to strengthen problem-solving skills,
+maintain clean and organized code, and track my long-term Java learning progress.
 
  ------
 
@@ -17,20 +17,22 @@
 4. Input and Output
 5. Conditional Statements (if-else, switch)
 6. Loops (for, while, do-while)
-7. Arrays
-8. Strings
-9. Sorting Algorithms
-10. Time and Space Complexity
-11. Recursion
-12. Back Tracking
-13. OOPs
-14. Array List
-15. Linked List
-16. Stack
-17. Queue
-18. Trees
-19. HashSet/ HashMap/ Hashing Q's
-20. Graph
+7. Pattern (Part 1)
+8. Pattern Advanced (Part 2)
+9. Arrays
+10. Strings
+11. Sorting Algorithms
+12. Time and Space Complexity
+13. Recursion
+14. Back Tracking
+15. OOPs
+16. Array List
+17. Linked List
+18. Stack
+19. Queue
+20. Trees
+21. HashSet/ HashMap/ Hashing Q's
+22. Graph
 
 ------
 
