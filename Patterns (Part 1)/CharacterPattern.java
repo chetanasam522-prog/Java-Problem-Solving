@@ -1,19 +1,21 @@
-/** # Problem Statement :- Print Half-Pyramid Pattern  1
-                                                       1 2
-                                                       1 2 3
-                                                       1 2 3 4
+/** # Problem Statement :- Print Character Pattern  A
+                                                    B C
+                                                    D E F
+                                                    G H I J
     # Logic (Step by Step):-
 
     . The program starts execution from the main() method.
-    . An integer variable n is declared and initialized to 4, which represents the total number of rows.
+    . An integer variable n is initialized to 4, representing the number of rows.
+    . A character variable ch is initialized with the value 'A'.
     . An outer for loop runs from i = 1 to i = n.
     . The outer loop controls the current row number.
-    . An inner for loop runs from number = 1 to number = i.
-    . The inner loop controls the numbers printed in each row.
-    . Inside the inner loop, System.out.print(number) prints numbers starting from 1 up to the current row number in the same line.
+    . An inner for loop runs from chars = 1 to chars = i.
+    . The inner loop decides how many characters are printed in each row.
+    . Inside the inner loop:
+    . The current character stored in ch is printed using System.out.print(ch).
+    . The character ch is then incremented to the next alphabet using ch++.
     . After the inner loop completes, System.out.println() moves the cursor to the next line.
-    . With each new row, the count of printed numbers increases by one.
-    . The program ends after printing the complete half pyramid number pattern.
+    . The process repeats until all rows are printed, and the program ends.
 
     # Time & space complexity :-
     
