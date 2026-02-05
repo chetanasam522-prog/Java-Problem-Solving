@@ -19,7 +19,7 @@ maintain clean and organized code, and track my long-term Java learning progress
 6. Loops (for, while, do-while)
 7. Pattern (Part 1)
 8. Pattern Advanced (Part 2)
-9. Arrays
+9. Arrays (Arrays in java)
 10. Strings
 11. Sorting Algorithms
 12. Time and Space Complexity
