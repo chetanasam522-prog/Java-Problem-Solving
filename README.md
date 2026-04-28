@@ -12,28 +12,29 @@ maintain clean and organized code, and track my long-term Java learning progress
 # Topics Covered
 
 1. Java Basics
-2. Variables and Data Types (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Variable%20%26%20Datatype)
-3. Operators (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Operators%20%26%20Expression)
+2. Variables and Data Types (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/01_Variable%20%26%20Datatype)
+3. Operators (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/02_Operators%20%26%20Expression)
 4. Input and Output
-5. Conditional Statements (if-else, switch) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Conditionals%20In%20Java)
-6. Loops (for, while, do-while) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Loop%20Control%20Instruction)
-7. Pattern (Part 1) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Patterns%20(Part%201))
-8. Pattern Advanced (Part 2) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Patterns%20Advanced%20(Part%202))
-9. Arrays (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Arrays%20in%20java)
-10. Strings
-11. Sorting Algorithms (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Sorting%20in%20java)
-12. Time and Space Complexity
-13. Recursion Part 1 (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Recursion%20(Part%201))
-14. Recursion Part 2 (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/Recursion%20Advanced%20(Part%202))
-15. Back Tracking
-16. OOPs
-17. Array List
-18. Linked List
-19. Stack
-20. Queue
-21. Trees
-22. HashSet/ HashMap/ Hashing Q's
-23. Graph
+5. Conditional Statements (if-else, switch) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/03_Conditionals%20In%20Java)
+6. Loops (for, while, do-while) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/04_Loop%20Control%20Instruction)
+7. Pattern (Part 1) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/05_Patterns%20(Part%201))
+8. Pattern Advanced (Part 2) (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/06_Patterns%20Advanced%20(Part%202))
+9. Arrays (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/08_Arrays%20in%20java)
+10. 2D_Arrays (
+11. Strings
+12. Sorting Algorithms (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/09_Sorting%20in%20java)
+13. Time and Space Complexity
+14. Recursion Part 1 (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/13_Recursion%20(Part%201))
+15. Recursion Part 2 (https://github.com/chetanasam522-prog/Java-Problem-Solving/tree/main/14_Recursion%20Advanced%20(Part%202))
+16. Back Tracking
+17. OOPs
+18. Array List
+19. Linked List
+20. Stack
+21. Queue
+22. Trees
+23. HashSet/ HashMap/ Hashing Q's
+24. Graph
 
 ------
 
